@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudharshanan-Gnanaguru
 - 👀 I’m interested in learning Web Development, Programming, etc.,
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Python, Backend Technologies
 - 💞️ I’m looking to collaborate on things like programming, marketing, etc.,
 - 📫 How to reach me ...
 
